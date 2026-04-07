@@ -1,0 +1,93 @@
+{
+  "rows": [
+    {
+      "title": "Featured",
+      "items": [
+        {
+          "title": "Making the Mogul",
+          "description": "Entrepreneurs compete in high-energy business challenges.",
+          "shortDescriptionLine1": "2026 | Reality",
+          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-hero-banner.jpg",
+          "contentId": "making-the-mogul-show",
+          "episodes": [
+            {
+              "title": "Pilot",
+              "description": "Meet the contestants.",
+              "shortDescriptionLine1": "Season 1",
+              "contentId": "making-the-mogul-pilot",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/mtm_casting2_v1_1080p.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 1",
+              "description": "First challenge begins.",
+              "shortDescriptionLine1": "Season 1",
+              "contentId": "making-the-mogul-ep1",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/MTM+Episode+1+Movavi.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
+            }
+          ]
+        },
+        {
+          "title": "Behind the Scenes",
+          "description": "Go behind the scenes with bonus footage and bloopers from Making the Mogul.",
+          "shortDescriptionLine1": "Bonus Content",
+          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/juno-splash-hd.png",
+          "contentId": "behind-the-scenes-show",
+          "episodes": [
+            {
+              "title": "Pilot Bloopers",
+              "description": "Behind the scenes bloopers from the pilot episode.",
+              "shortDescriptionLine1": "Bonus Content",
+              "contentId": "making-the-mogul-bloopers",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Pilot+bloopers.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Juno Originals",
+      "items": [
+        {
+          "title": "Juno Originals",
+          "description": "Original programming",
+          "shortDescriptionLine1": "Juno",
+          "contentId": "juno-originals",
+          "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/MTM+Episode+1+Movavi.mp4",
+          "streamFormat": "mp4",
+          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/juno-icon-hd.png",
+          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/juno-icon-sd.png",
+          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/juno-splash-hd.png"
+        }
+      ]
+    },
+    {
+      "title": "Behind the Scenes",
+      "items": [
+        {
+          "title": "Pilot Bloopers",
+          "description": "Behind the scenes moments",
+          "shortDescriptionLine1": "Bonus",
+          "contentId": "making-the-mogul-bloopers",
+          "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/Pilot+bloopers.mp4",
+          "streamFormat": "mp4",
+          "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+          "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+          "hdBackgroundImageUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/juno-splash-hd.png"
+        }
+      ]
+    }
+  ]
+}
