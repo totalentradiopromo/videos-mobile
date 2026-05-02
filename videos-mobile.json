@@ -23,11 +23,31 @@
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
             },
             {
-              "title": "Episode 1",
-              "description": "First challenge begins.",
-              "shortDescriptionLine1": "Season 1",
+              "title": "Episode 1 – Market Research",
+              "description": "Competition heats up as contestants face off for their first challenge.",
+              "shortDescriptionLine1": "Season 1 | Episode 1",
               "contentId": "making-the-mogul-ep1",
               "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/MTM+Episode+1+Movavi.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 2 – SWOT Analysis",
+              "description": "The contestants face their first elimination and prepare for the next challenge.",
+              "shortDescriptionLine1": "Season 1 | Episode 2",
+              "contentId": "making-the-mogul-ep2",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+2+MOVAVI.mp4",
+              "streamFormat": "mp4",
+              "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
+              "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
+            },
+            {
+              "title": "Episode 3 – Can You Network?",
+              "description": "Contestants refine their networking skills and face new pressure in the competition.",
+              "shortDescriptionLine1": "Season 1 | Episode 3",
+              "contentId": "making-the-mogul-ep3",
+              "url": "https://mustard-seed-productions-video.s3.us-east-2.amazonaws.com/EPISODE+3+MOVAVI.mp4",
               "streamFormat": "mp4",
               "hdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png",
               "sdPosterUrl": "https://raw.githubusercontent.com/totalentradiopromo/roku-channel/main/images/making-the-mogul-poster.png"
